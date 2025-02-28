@@ -316,7 +316,7 @@
               "value": {
                 "fontSize": 20,
                 "lineHeight": 1.8,
-                "fontFamily": "test-soehne-mono"
+                "fontFamily": "Plus Jakarta Sans"
               },
               "tokenId": "body"
             }
@@ -381,7 +381,7 @@
                             "value": {
                               "fontSize": 13,
                               "lineHeight": 1.8,
-                              "fontFamily": "test-soehne-mono"
+                              "fontFamily": "Plus Jakarta Sans"
                             }
                           }
                         },
@@ -409,7 +409,7 @@
               "value": {
                 "fontSize": 20,
                 "lineHeight": 1.8,
-                "fontFamily": "test-soehne-mono"
+                "fontFamily": "Plus Jakarta Sans"
               },
               "tokenId": "body"
             }
@@ -525,7 +525,7 @@
                   "value": {
                     "fontSize": 13,
                     "lineHeight": 1.8,
-                    "fontFamily": "test-soehne-mono"
+                    "fontFamily": "Plus Jakarta Sans"
                   },
                   "tokenId": "body2"
                 }

@@ -1,6 +1,6 @@
 {
   "_id": "ded5c983-42f7-4e05-98b3-8282fc85a358",
-  "_component": "SimpleBanner",
+  "_component": "SimpleBanner2",
   "backgroundColor": { 
     "$res": true,
     "xl": {
@@ -85,7 +85,7 @@
       "_id": "047289c6-96ed-4b9b-9df3-204dff1315d0",
       "_component": "Button",
       "_itemProps": {
-        "SimpleBanner": {
+        "SimpleBanner2": {
           "Buttons": {}
         }
       },
@@ -195,7 +195,7 @@
       "_id": "ebebf572-9353-48a0-a0bb-eb5d0512b63c",
       "_component": "Button",
       "_itemProps": {
-        "SimpleBanner": {
+        "SimpleBanner2": {
           "Buttons": {}
         }
       },

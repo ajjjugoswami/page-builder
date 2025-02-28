@@ -18,6 +18,7 @@ import { Stack } from "./components/Stack/Stack";
 import { TextLink } from "./components/TextLink/TextLink";
 import { TwoCards } from "./components/TwoCards/TwoCards";
 import { Video } from "./components/Video/Video";
+import { SimpleBanner2 } from "./components/SimpleBanner2/SimpleBanner2";
 
 const components = {
   ProductCard,
@@ -39,6 +40,7 @@ const components = {
   VimeoPlayer,
   TextLink,
   SimpleBanner,
+  SimpleBanner2,
   Code,
 };
 

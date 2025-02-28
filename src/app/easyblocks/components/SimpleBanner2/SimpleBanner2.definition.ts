@@ -1,8 +1,8 @@
 import { NoCodeComponentDefinition } from "@easyblocks/core";
 
-export const simpleBannerDefinition: NoCodeComponentDefinition = {
-  id: "SimpleBanner",
-  label: "SimpleBanner",
+export const simpleBannerDefinition2: NoCodeComponentDefinition = {
+  id: "SimpleBanner2",
+  label: "SimpleBanner2",
   type: "section",
   schema: [
     {
